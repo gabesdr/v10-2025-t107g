@@ -34,6 +34,10 @@ Verkefnið er skrifuð á ensku.
     - fonts
         - Bricolage Grotesque
 
+## Athugasemdir
+
+Mobile-view er frekar primitive, hún virkar en maður þarf að scrolla til að sjá footer credits.
+
 
 > Útgáfa 1.0
 
