@@ -13,6 +13,8 @@ En auðvitað það þarf að sækja öll viðeigandi skrám með `npm install`.
 
 Verkefnið er skrifuð á ensku.
 
+Ferlið í notkun fyrir þessa verkefni er `Vite` ekki `Parcel`.
+
 ## Grunnur
 
 - v10.2025.T107G (Main)
@@ -36,7 +38,7 @@ Verkefnið er skrifuð á ensku.
 
 ## Athugasemdir
 
-Mobile-view er frekar primitive, hún virkar en maður þarf að scrolla til að sjá footer credits.
+N/A
 
 
 > Útgáfa 1.0
