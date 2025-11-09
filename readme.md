@@ -13,6 +13,8 @@ En auðvitað það þarf að sækja öll viðeigandi skrám með `npm install`.
 
 Verkefnið er skrifuð á ensku.
 
+https://justfacts.netlify.app/
+
 ## Grunnur
 
 - v10.2025.T107G (Main)
