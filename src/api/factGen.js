@@ -11,7 +11,7 @@ export async function getRandomFact() {
         return data.text;
 
     } catch (error) {
-        console.error("Error fetching random fact:", error);
+        console.error("Error fetching random fact.", error);
         throw error;
     }
 }
