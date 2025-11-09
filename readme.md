@@ -11,7 +11,7 @@ Hægt er að keyra command `npm run lint:js` og `npm run lint:css` til að kanna
 
 En auðvitað það þarf að sækja öll viðeigandi skrám með `npm install`.
 
-Verkefnið er skrifuð á ensku.
+Verkefnið er skrifað á ensku.
 
 https://justfacts.netlify.app/
 
