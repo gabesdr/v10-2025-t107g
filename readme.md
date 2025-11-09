@@ -3,7 +3,7 @@
 ## Verkefnalýsing
 Fyrir verkefni 10 ég ákvaði að búa til "Random Fact Generator".
 
-Kóðinn er frekar einfalt, hún notar `factGen.js` til að sækja eða búa til staðreyndir úr `Useless Facts API` og verkefnið var búið til með `Vite` ekki `Parcel`.
+Kóðinn er frekar einfaldur, hann notar `factGen.js` til að sækja eða búa til staðreyndir úr `Useless Facts API` og verkefnið var búið til með `Vite` ekki `Parcel`.
 
 Samkvæmt lýsningunni í `vef1-2025-v10` var sett upp `SCSS(SASS)`, `Stylelint` og `eslint`.
 
@@ -36,7 +36,7 @@ Verkefnið er skrifuð á ensku.
 
 ## Athugasemdir
 
-Error catch virkar en það gerist svo sjaldan að maður lendist í einhverju veseni.
+Error catch virkar en það gerist svo sjaldan að maður lendir í einhverju veseni.
 
 > Útgáfa 1.1 "Mobile-view lagfært"
 
