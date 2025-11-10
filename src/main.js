@@ -8,7 +8,7 @@ async function displayRandomFact() {
         const fact =  await getRandomFact();
         factBox.textContent = fact;
     } catch (error) {
-        console.error("Failed to load a random fact:", error);
+        console.error("Failed to load a random fact.", error);
         factBox.textContent = "Failed to load a random fact. Please try again.";
     }
 }
